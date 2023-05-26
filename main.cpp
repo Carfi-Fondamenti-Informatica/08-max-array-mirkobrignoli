@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int n,risultato;
+    float n,risultato;
     cin >> n;
     int vettore[n];
     
