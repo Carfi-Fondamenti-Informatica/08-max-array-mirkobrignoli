@@ -7,7 +7,7 @@ int main()
 {
     float n,risultato;
     cin >> n;
-    int vettore[n];
+    float vettore[n];
     
     inizializza(vettore,n);
     risultato = compara(vettore, n);
